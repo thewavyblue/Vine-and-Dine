@@ -1,0 +1,880 @@
+[20-Aug-2023 19:46:35 UTC] PHP Warning:  Array to string conversion in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 26
+[20-Aug-2023 19:48:33 UTC] PHP Warning:  Array to string conversion in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 29
+[20-Aug-2023 19:50:22 UTC] PHP Warning:  Array to string conversion in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 28
+[20-Aug-2023 19:50:23 UTC] PHP Warning:  Array to string conversion in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 28
+[20-Aug-2023 19:50:53 UTC] PHP Warning:  Array to string conversion in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 28
+[20-Aug-2023 19:57:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "width" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php:9
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 9
+[20-Aug-2023 19:58:03 UTC] PHP Warning:  Undefined array key "width" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 9
+[20-Aug-2023 20:44:08 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Post as array in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php:39
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 39
+[20-Aug-2023 20:49:53 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Post as array in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php:15
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 15
+[20-Aug-2023 20:50:00 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Post as array in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php:15
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 15
+[20-Aug-2023 20:50:13 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Post as array in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php:15
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 15
+[20-Aug-2023 20:51:29 UTC] PHP Warning:  Undefined variable $thumbnail_image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 44
+[20-Aug-2023 20:53:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 44
+[20-Aug-2023 20:54:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ID" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php:15
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 15
+[20-Aug-2023 20:54:09 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Post as array in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php:15
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 15
+[20-Aug-2023 20:55:25 UTC] PHP Fatal error:  Cannot use [] for reading in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 44
+[20-Aug-2023 20:55:42 UTC] PHP Parse error:  syntax error, unexpected token ",", expecting "]" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 44
+[20-Aug-2023 20:55:59 UTC] PHP Parse error:  syntax error, unexpected token ",", expecting "]" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 44
+[20-Aug-2023 20:56:00 UTC] PHP Parse error:  syntax error, unexpected token ",", expecting "]" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 44
+[20-Aug-2023 20:57:10 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Post as array in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php:14
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 14
+[21-Aug-2023 07:29:02 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Post as array in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php:14
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 14
+[21-Aug-2023 07:29:39 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "ID", expecting identifier or variable or "{" or "$" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 14
+[21-Aug-2023 07:30:28 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "ID", expecting identifier or variable or "{" or "$" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 14
+[21-Aug-2023 07:30:30 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "ID", expecting identifier or variable or "{" or "$" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 14
+[21-Aug-2023 07:37:32 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "ID", expecting identifier or variable or "{" or "$" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 14
+[21-Aug-2023 07:37:33 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "ID", expecting identifier or variable or "{" or "$" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 14
+[21-Aug-2023 17:52:01 UTC] PHP Warning:  Undefined variable $featured_posts in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 66
+[21-Aug-2023 17:57:50 UTC] PHP Warning:  Undefined variable $featured_posts in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 69
+[21-Aug-2023 17:58:29 UTC] PHP Warning:  Undefined variable $featured_posts in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 69
+[21-Aug-2023 17:58:29 UTC] PHP Warning:  Undefined variable $featured_posts in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 69
+[21-Aug-2023 17:58:31 UTC] PHP Warning:  Undefined variable $featured_posts in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 69
+[21-Aug-2023 17:58:44 UTC] PHP Warning:  Undefined variable $featured_posts in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 69
+[21-Aug-2023 18:08:07 UTC] PHP Warning:  Undefined variable $featured_img_url in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 46
+[21-Aug-2023 18:08:41 UTC] PHP Warning:  Undefined variable $featured_img_url in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 46
+[21-Aug-2023 18:08:58 UTC] PHP Warning:  Undefined variable $featured_img_url in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 46
+[21-Aug-2023 18:10:03 UTC] PHP Warning:  Undefined variable $featured_img_url in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 46
+[21-Aug-2023 18:15:16 UTC] PHP Parse error:  syntax error, unexpected token "<" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 48
+[22-Aug-2023 17:48:23 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[22-Aug-2023 17:57:05 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 12
+[22-Aug-2023 17:57:05 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 16
+[22-Aug-2023 17:57:40 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 12
+[22-Aug-2023 17:57:40 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 16
+[22-Aug-2023 17:57:43 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 12
+[22-Aug-2023 17:57:43 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 16
+[22-Aug-2023 18:06:26 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 20
+[22-Aug-2023 18:09:53 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[22-Aug-2023 18:34:02 UTC] PHP Warning:  Undefined variable $cl_3col_2 in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 24
+[22-Aug-2023 18:34:02 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 24
+[22-Aug-2023 18:34:02 UTC] PHP Warning:  Undefined variable $cl_3col_3 in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 28
+[22-Aug-2023 18:34:02 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 28
+[22-Aug-2023 18:34:02 UTC] PHP Warning:  Undefined variable $cl_3col_2 in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 94
+[22-Aug-2023 18:34:02 UTC] PHP Warning:  Undefined variable $cl_3col_3 in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 102
+[22-Aug-2023 18:38:23 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[22-Aug-2023 18:40:23 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[22-Aug-2023 18:40:23 UTC] Cron unschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[22-Aug-2023 18:53:50 UTC] PHP Warning:  Array to string conversion in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 79
+[22-Aug-2023 19:03:18 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[22-Aug-2023 19:17:18 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[22-Aug-2023 19:19:19 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[22-Aug-2023 20:46:01 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Aug-2023 17:16:31 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Aug-2023 17:16:31 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[23-Aug-2023 17:16:31 UTC] Cron unschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[23-Aug-2023 17:16:40 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[23-Aug-2023 17:38:15 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Aug-2023 17:40:59 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Aug-2023 17:40:59 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[23-Aug-2023 17:45:00 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Aug-2023 18:35:53 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Aug-2023 18:50:23 UTC] PHP Warning:  Undefined variable $hero_header in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 63
+[23-Aug-2023 18:50:23 UTC] PHP Warning:  Undefined variable $hero_standfirst in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 69
+[23-Aug-2023 18:50:23 UTC] PHP Warning:  Undefined variable $hero_cta in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 75
+[23-Aug-2023 18:51:54 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Aug-2023 18:55:54 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Aug-2023 19:16:13 UTC] PHP Parse error:  syntax error, unexpected token "-", expecting "(" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 215
+[23-Aug-2023 19:16:13 UTC] PHP Parse error:  syntax error, unexpected token "-", expecting "(" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 215
+[23-Aug-2023 19:16:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[23-Aug-2023 19:16:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[23-Aug-2023 19:16:29 UTC] PHP Parse error:  syntax error, unexpected token "-", expecting "(" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 215
+[23-Aug-2023 19:17:12 UTC] PHP Parse error:  syntax error, unexpected token "-", expecting "(" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 215
+[23-Aug-2023 19:17:12 UTC] PHP Parse error:  syntax error, unexpected token "-", expecting "(" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 215
+[23-Aug-2023 19:17:29 UTC] PHP Parse error:  syntax error, unexpected token "-", expecting "(" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 215
+[23-Aug-2023 19:18:19 UTC] PHP Parse error:  syntax error, unexpected token "-", expecting "(" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 215
+[23-Aug-2023 19:18:19 UTC] PHP Parse error:  syntax error, unexpected token "-", expecting "(" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 215
+[23-Aug-2023 19:21:13 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[24-Aug-2023 17:44:51 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[24-Aug-2023 17:44:51 UTC] Cron reschedule event error for hook: wordfence_ls_ntp_cron, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[24-Aug-2023 17:44:51 UTC] Cron unschedule event error for hook: wordfence_ls_ntp_cron, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[24-Aug-2023 19:47:37 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 33
+[24-Aug-2023 19:47:58 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 33
+[24-Aug-2023 19:54:29 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 36
+[25-Aug-2023 21:39:40 UTC] PHP Warning:  Undefined variable $cl_3col_1 in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 56
+[25-Aug-2023 21:39:40 UTC] PHP Warning:  Undefined variable $cl_3col_2 in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 64
+[25-Aug-2023 21:39:40 UTC] PHP Warning:  Undefined variable $cl_3col_3 in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php on line 72
+[25-Aug-2023 21:41:34 UTC] PHP Warning:  Undefined variable $plc_left_ft_img_url in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-4col.php on line 24
+[25-Aug-2023 22:05:53 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Aug-2023 14:50:02 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Aug-2023 16:03:01 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Aug-2023 16:03:01 UTC] Cron reschedule event error for hook: imagify_rating_event, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
+[26-Aug-2023 17:17:22 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Aug-2023 17:24:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php on line 4
+[26-Aug-2023 17:24:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php on line 4
+[26-Aug-2023 17:24:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php on line 4
+[26-Aug-2023 17:24:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php on line 4
+[26-Aug-2023 17:25:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php on line 4
+[26-Aug-2023 17:25:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php on line 4
+[26-Aug-2023 17:25:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php on line 4
+[26-Aug-2023 17:25:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php on line 4
+[26-Aug-2023 17:29:11 UTC] PHP Warning:  Undefined variable $http://vine-dine-event-catering.local/wp-content/uploads/2023/08/A-wedding-couple-kissing-under-confetti-scaled-e1692999119191.jpg in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php on line 7
+[26-Aug-2023 17:33:18 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Aug-2023 17:40:18 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Aug-2023 17:48:18 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Aug-2023 18:58:47 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_field(), 0 passed in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-weddings-page.php on line 7 and at least 1 expected in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:20
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-weddings-page.php(7): get_field()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#4 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 20
+[26-Aug-2023 19:03:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_field(), 0 passed in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-weddings-page.php on line 7 and at least 1 expected in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:20
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-weddings-page.php(7): get_field()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#4 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 20
+[26-Aug-2023 19:04:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: var_dump() expects at least 1 argument, 0 given in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-weddings-page.php:34
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-weddings-page.php(34): var_dump()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#4 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-weddings-page.php on line 34
+[26-Aug-2023 19:40:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 5
+[26-Aug-2023 19:41:39 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[26-Aug-2023 19:42:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 5
+[26-Aug-2023 19:42:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 6
+[26-Aug-2023 19:44:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 5
+[26-Aug-2023 19:44:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 6
+[26-Aug-2023 19:45:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 5
+[26-Aug-2023 19:45:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 6
+[26-Aug-2023 19:45:42 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 19
+[26-Aug-2023 19:46:29 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 19
+[26-Aug-2023 19:48:03 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 19
+[26-Aug-2023 19:48:05 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 19
+[26-Aug-2023 19:51:05 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Aug-2023 19:51:18 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 19
+[26-Aug-2023 20:40:16 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Aug-2023 20:47:28 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 19
+[26-Aug-2023 20:50:17 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Aug-2023 20:52:17 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Aug-2023 21:04:42 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 19
+[26-Aug-2023 21:05:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 5
+[26-Aug-2023 21:05:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 6
+[26-Aug-2023 21:05:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 5
+[26-Aug-2023 21:06:27 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 19
+[26-Aug-2023 21:07:36 UTC] PHP Parse error:  syntax error, unexpected identifier "image_col", expecting ")" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 4
+[26-Aug-2023 21:08:03 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 19
+[26-Aug-2023 21:08:33 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Aug-2023 21:09:23 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php:4
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-events-page.php(27): get_template_part('components/sect...', 'text-image-5050')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 4
+[26-Aug-2023 21:10:33 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Aug-2023 21:10:57 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php:4
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-events-page.php(27): get_template_part('components/sect...', 'text-image-5050')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 4
+[26-Aug-2023 21:11:41 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php:4
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-events-page.php(27): get_template_part('components/sect...', 'text-image-5050')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 4
+[26-Aug-2023 21:11:59 UTC] PHP Warning:  Array to string conversion in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 18
+[26-Aug-2023 21:14:34 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Aug-2023 21:17:09 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Aug-2023 21:21:22 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 16
+[26-Aug-2023 21:21:22 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 19
+[26-Aug-2023 21:21:37 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 19
+[26-Aug-2023 21:26:14 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 22
+[26-Aug-2023 21:26:52 UTC] PHP Warning:  Undefined variable $text in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 20
+[26-Aug-2023 21:26:52 UTC] PHP Warning:  Undefined variable $text in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 24
+[26-Aug-2023 21:26:52 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 27
+[26-Aug-2023 21:27:06 UTC] PHP Warning:  Undefined variable $text in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 20
+[26-Aug-2023 21:27:06 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 27
+[26-Aug-2023 21:27:38 UTC] PHP Warning:  Undefined variable $text in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 21
+[26-Aug-2023 21:27:38 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 28
+[26-Aug-2023 21:27:57 UTC] PHP Warning:  Undefined variable $text in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 23
+[26-Aug-2023 21:27:57 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 30
+[26-Aug-2023 21:29:31 UTC] PHP Warning:  Undefined variable $text in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 25
+[26-Aug-2023 21:29:31 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 32
+[26-Aug-2023 21:29:48 UTC] PHP Warning:  Undefined variable $text in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 25
+[26-Aug-2023 21:29:48 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 32
+[26-Aug-2023 21:42:27 UTC] PHP Warning:  Undefined variable $text in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 27
+[26-Aug-2023 21:42:27 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 34
+[26-Aug-2023 21:43:43 UTC] PHP Warning:  Undefined variable $text in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 27
+[26-Aug-2023 21:43:43 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 34
+[26-Aug-2023 21:54:02 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 24
+[26-Aug-2023 22:03:48 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Aug-2023 22:06:48 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Aug-2023 22:14:48 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Aug-2023 10:36:19 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[27-Aug-2023 10:36:19 UTC] Cron unschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[27-Aug-2023 10:36:19 UTC] Cron reschedule event error for hook: wordfence_hourly_cron, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[27-Aug-2023 10:36:28 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Aug-2023 10:37:18 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Aug-2023 10:46:18 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Aug-2023 10:48:19 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Aug-2023 10:48:19 UTC] Cron unschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Aug-2023 11:01:38 UTC] PHP Parse error:  syntax error, unexpected token "endif" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 22
+[27-Aug-2023 11:03:40 UTC] PHP Parse error:  syntax error, unexpected token "endif" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 22
+[27-Aug-2023 11:17:25 UTC] PHP Warning:  Undefined array key "caption" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 14
+[27-Aug-2023 11:17:25 UTC] PHP Warning:  Undefined array key "link" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 15
+[27-Aug-2023 11:17:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 15
+[27-Aug-2023 11:17:25 UTC] PHP Warning:  Undefined array key "link" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 15
+[27-Aug-2023 11:17:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 15
+[27-Aug-2023 11:17:25 UTC] PHP Warning:  Undefined array key "color" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 20
+[27-Aug-2023 11:19:33 UTC] PHP Warning:  Undefined array key "caption" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 21
+[27-Aug-2023 11:19:33 UTC] PHP Warning:  Undefined array key "link" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 22
+[27-Aug-2023 11:19:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 22
+[27-Aug-2023 11:19:33 UTC] PHP Warning:  Undefined array key "link" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 22
+[27-Aug-2023 11:19:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 22
+[27-Aug-2023 11:19:33 UTC] PHP Warning:  Undefined array key "color" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 27
+[27-Aug-2023 11:20:53 UTC] PHP Warning:  Undefined array key "caption" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 16
+[27-Aug-2023 11:20:53 UTC] PHP Warning:  Undefined array key "link" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 17
+[27-Aug-2023 11:20:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 17
+[27-Aug-2023 11:20:53 UTC] PHP Warning:  Undefined array key "link" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 17
+[27-Aug-2023 11:20:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 17
+[27-Aug-2023 11:20:53 UTC] PHP Warning:  Undefined array key "color" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 22
+[27-Aug-2023 11:20:53 UTC] PHP Warning:  Undefined variable $image in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 40
+[27-Aug-2023 11:21:40 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Aug-2023 11:26:04 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Aug-2023 11:26:32 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 30
+[27-Aug-2023 11:27:01 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 30
+[27-Aug-2023 11:27:12 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 30
+[27-Aug-2023 11:27:37 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 29
+[27-Aug-2023 11:30:04 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 46
+[27-Aug-2023 11:30:20 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 26
+[27-Aug-2023 11:37:40 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Aug-2023 12:18:12 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:18:12 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:20:43 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:20:43 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:21:53 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:21:53 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:21:55 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:21:55 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:22:07 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:22:07 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:22:30 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:22:30 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:23:13 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:23:13 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:24:02 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:24:02 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:24:07 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:24:07 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:26:34 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:26:34 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:26:51 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:26:51 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:27:04 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:27:04 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:27:06 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:27:06 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:28:18 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:28:18 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:28:19 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:28:19 UTC] PHP Warning:  Trying to access array offset on value of type int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 24
+[27-Aug-2023 12:28:29 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php:4
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-events-page.php(34): get_template_part('components/sect...', 'text-image-5050...')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 4
+[27-Aug-2023 12:28:46 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php:4
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-events-page.php(34): get_template_part('components/sect...', 'text-image-5050...')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 4
+[27-Aug-2023 12:28:51 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php:4
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-events-page.php(34): get_template_part('components/sect...', 'text-image-5050...')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050-3.php on line 4
+[27-Aug-2023 12:30:04 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Aug-2023 13:12:03 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Aug-2023 13:19:03 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Aug-2023 13:39:10 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Aug-2023 13:44:59 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Aug-2023 14:14:52 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Aug-2023 14:54:35 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[28-Aug-2023 12:26:21 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[28-Aug-2023 12:39:23 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[28-Aug-2023 12:50:53 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[28-Aug-2023 12:57:55 UTC] PHP Parse error:  syntax error, unexpected token "echo", expecting ";" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 247
+[28-Aug-2023 12:57:55 UTC] PHP Parse error:  syntax error, unexpected token "echo", expecting ";" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 247
+[28-Aug-2023 12:57:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[28-Aug-2023 12:57:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[28-Aug-2023 12:57:56 UTC] PHP Parse error:  syntax error, unexpected token "echo", expecting ";" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 247
+[28-Aug-2023 12:57:57 UTC] PHP Parse error:  syntax error, unexpected token "echo", expecting ";" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 247
+[28-Aug-2023 13:16:36 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[28-Aug-2023 13:29:16 UTC] PHP Warning:  Undefined variable $text_block in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-menu.php on line 17
+[28-Aug-2023 13:29:16 UTC] PHP Warning:  Undefined variable $text_block in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-menu.php on line 17
+[28-Aug-2023 13:50:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_post_ancestors(), 0 passed in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php on line 27 and exactly 1 expected in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/post.php:1054
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php(27): get_post_ancestors()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/single-menu.php(14): get_template_part('components/sect...', 'page-hero')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#7 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#8 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/post.php on line 1054
+[28-Aug-2023 13:51:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_post_ancestors(), 0 passed in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php on line 27 and exactly 1 expected in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/post.php:1054
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php(27): get_post_ancestors()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/single-menu.php(14): get_template_part('components/sect...', 'page-hero')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#7 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#8 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/post.php on line 1054
+[28-Aug-2023 13:55:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_post_ancestors(), 0 passed in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php on line 27 and exactly 1 expected in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/post.php:1054
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php(27): get_post_ancestors()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/single-menu.php(14): get_template_part('components/sect...', 'page-hero')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#7 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#8 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/post.php on line 1054
+[28-Aug-2023 13:56:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_post_ancestors(), 0 passed in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php on line 27 and exactly 1 expected in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/post.php:1054
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php(27): get_post_ancestors()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/single-menu.php(14): get_template_part('components/sect...', 'page-hero')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#7 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#8 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/post.php on line 1054
+[28-Aug-2023 13:56:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_post_ancestors(), 0 passed in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php on line 27 and exactly 1 expected in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/post.php:1054
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-hero.php(27): get_post_ancestors()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/single-menu.php(14): get_template_part('components/sect...', 'page-hero')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#7 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#8 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/post.php on line 1054
+[28-Aug-2023 20:09:57 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-food-card-grid.php on line 3
+[28-Aug-2023 20:09:57 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-food-card-grid.php on line 7
+[28-Aug-2023 20:09:57 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-food-card-grid.php on line 11
+[28-Aug-2023 20:11:36 UTC] PHP Warning:  Undefined variable $cl_3col_1 in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-food-card-grid.php on line 11
+[28-Aug-2023 20:11:36 UTC] PHP Warning:  Undefined variable $cl_3col_2 in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-food-card-grid.php on line 25
+[28-Aug-2023 20:11:36 UTC] PHP Warning:  Undefined variable $cl_3col_3 in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-food-card-grid.php on line 40
+[28-Aug-2023 20:22:41 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[28-Aug-2023 20:24:00 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[28-Aug-2023 20:49:27 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[29-Aug-2023 18:44:39 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[02-Sep-2023 15:04:50 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[02-Sep-2023 15:17:30 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/header.php on line 39
+[02-Sep-2023 15:22:37 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[02-Sep-2023 15:28:43 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[02-Sep-2023 15:33:42 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[02-Sep-2023 16:01:49 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[02-Sep-2023 16:04:39 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[02-Sep-2023 16:16:50 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[02-Sep-2023 16:44:16 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[02-Sep-2023 16:50:16 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[03-Sep-2023 18:07:11 UTC] Cron unschedule event error for hook: wordfence_completeCoreUpdateNotification, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[]}
+[03-Sep-2023 18:12:10 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[03-Sep-2023 19:17:21 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[03-Sep-2023 19:50:21 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[03-Sep-2023 19:50:21 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[04-Sep-2023 05:40:57 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[04-Sep-2023 05:40:58 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[05-Sep-2023 17:55:45 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[05-Sep-2023 17:55:45 UTC] Cron unschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[07-Sep-2023 18:52:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 4
+[07-Sep-2023 18:52:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 5
+[07-Sep-2023 18:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 4
+[07-Sep-2023 18:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 5
+[07-Sep-2023 18:59:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 4
+[07-Sep-2023 18:59:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 5
+[07-Sep-2023 19:02:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 4
+[07-Sep-2023 19:02:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 5
+[07-Sep-2023 19:04:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 4
+[07-Sep-2023 19:04:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-image-5050.php on line 5
+[07-Sep-2023 19:32:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/archive-menu.php on line 59
+[07-Sep-2023 19:32:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/archive-menu.php on line 43
+[07-Sep-2023 19:33:32 UTC] PHP Parse error:  syntax error, unexpected token "endif" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/archive-menu.php on line 33
+[07-Sep-2023 19:33:46 UTC] PHP Parse error:  syntax error, unexpected token "endif" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/archive-menu.php on line 32
+[07-Sep-2023 19:34:35 UTC] PHP Parse error:  syntax error, unexpected token "endif" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/archive-menu.php on line 32
+[07-Sep-2023 19:35:07 UTC] PHP Parse error:  syntax error, unexpected token "endif" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/archive-menu.php on line 32
+[07-Sep-2023 19:35:19 UTC] PHP Parse error:  syntax error, unexpected token "endif" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/archive-menu.php on line 32
+[07-Sep-2023 20:01:03 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[09-Sep-2023 12:31:30 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[09-Sep-2023 16:36:57 UTC] Cron reschedule event error for hook: wordfence_ls_ntp_cron, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[13-Sep-2023 21:05:23 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[13-Sep-2023 21:09:25 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[13-Sep-2023 21:13:29 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[13-Sep-2023 21:29:35 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[14-Sep-2023 18:06:19 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[14-Sep-2023 18:07:26 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[14-Sep-2023 18:26:33 UTC] PHP Parse error:  syntax error, unexpected identifier "post" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/archive.php on line 40
+[14-Sep-2023 18:26:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function guid() in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/archive.php:39
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/archive.php on line 39
+[14-Sep-2023 18:27:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_url() in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/archive.php:39
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/archive.php on line 39
+[16-Sep-2023 15:37:03 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[16-Sep-2023 15:40:03 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[16-Sep-2023 15:46:04 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[16-Sep-2023 15:48:03 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[16-Sep-2023 17:04:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_title() in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php:8
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php(22): get_template_part('components/sect...', 'page-cards-6col')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 8
+[16-Sep-2023 17:07:06 UTC] PHP Warning:  Attempt to read property "post_title" on int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 8
+[16-Sep-2023 17:07:06 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php:32
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php(22): get_template_part('components/sect...', 'page-cards-6col')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 32
+[16-Sep-2023 17:08:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Weddings() in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php:32
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php(22): get_template_part('components/sect...', 'page-cards-6col')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 32
+[16-Sep-2023 17:11:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_title() in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php:8
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php(22): get_template_part('components/sect...', 'page-cards-6col')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 8
+[16-Sep-2023 17:12:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Weddings() in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php:32
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php(22): get_template_part('components/sect...', 'page-cards-6col')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 32
+[16-Sep-2023 17:12:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Weddings() in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php:32
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php(22): get_template_part('components/sect...', 'page-cards-6col')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 32
+[16-Sep-2023 17:13:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Weddings() in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php:32
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php(22): get_template_part('components/sect...', 'page-cards-6col')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 32
+[16-Sep-2023 17:13:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Weddings() in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php:32
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php(22): get_template_part('components/sect...', 'page-cards-6col')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 32
+[16-Sep-2023 17:13:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Weddings() in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php:32
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php(22): get_template_part('components/sect...', 'page-cards-6col')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 32
+[16-Sep-2023 17:13:47 UTC] PHP Warning:  Undefined variable $plc_left_post_title in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 32
+[16-Sep-2023 17:13:47 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php:32
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php(22): get_template_part('components/sect...', 'page-cards-6col')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 32
+[16-Sep-2023 17:14:08 UTC] PHP Warning:  Undefined variable $plc_left_post_title in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 32
+[16-Sep-2023 17:14:08 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php:32
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php(22): get_template_part('components/sect...', 'page-cards-6col')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 32
+[16-Sep-2023 17:16:00 UTC] PHP Warning:  Undefined variable $plc_left_post_title in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 39
+[16-Sep-2023 17:16:00 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php:39
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php(22): get_template_part('components/sect...', 'page-cards-6col')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 39
+[16-Sep-2023 17:16:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_title() in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php:8
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php(22): get_template_part('components/sect...', 'page-cards-6col')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 8
+[16-Sep-2023 17:16:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_title() in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php:8
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/front-page.php(22): get_template_part('components/sect...', 'page-cards-6col')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 8
+[16-Sep-2023 17:45:02 UTC] PHP Warning:  Attempt to read property "post_title" on int in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-4col.php on line 6
+[16-Sep-2023 18:57:10 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Sep-2023 17:10:17 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Sep-2023 17:16:18 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Sep-2023 18:08:56 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Sep-2023 18:16:19 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Sep-2023 18:22:20 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Sep-2023 18:46:11 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Sep-2023 19:28:01 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Sep-2023 19:49:31 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Sep-2023 20:04:44 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Sep-2023 20:07:23 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Sep-2023 20:09:36 UTC] PHP Warning:  Array to string conversion in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-menu.php on line 27
+[17-Sep-2023 20:10:04 UTC] PHP Warning:  Array to string conversion in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/formatting.php on line 1104
+[17-Sep-2023 20:11:18 UTC] PHP Warning:  Array to string conversion in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-menu.php on line 26
+[17-Sep-2023 20:12:16 UTC] PHP Parse error:  syntax error, unexpected token ",", expecting "]" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-menu.php on line 26
+[17-Sep-2023 20:12:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "title" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-menu.php:26
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(787): require()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template.php(720): load_template('/Users/ben/Loca...', false, Array)
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#3 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/single.php(27): get_template_part('components/sect...', 'text-menu')
+#4 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include('/Users/ben/Loca...')
+#5 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#6 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#7 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-text-menu.php on line 26
+[19-Sep-2023 19:04:23 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[19-Sep-2023 19:10:24 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Sep-2023 16:04:31 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/update.php on line 211
+[23-Sep-2023 16:04:31 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/update.php on line 449
+[23-Sep-2023 16:04:31 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/update.php on line 730
+[23-Sep-2023 18:38:33 UTC] PHP Fatal error:  Cannot redeclare custom_menu_item_post_type() (previously declared in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php:223) in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 248
+[23-Sep-2023 18:38:33 UTC] PHP Fatal error:  Cannot redeclare custom_menu_item_post_type() (previously declared in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php:223) in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 248
+[23-Sep-2023 18:38:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[23-Sep-2023 18:38:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[23-Sep-2023 18:38:44 UTC] PHP Fatal error:  Cannot redeclare custom_menu_item_post_type() (previously declared in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php:223) in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 248
+[23-Sep-2023 18:39:13 UTC] PHP Fatal error:  Cannot redeclare custom_menu_item_post_type() (previously declared in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php:223) in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 249
+[23-Sep-2023 18:39:14 UTC] PHP Fatal error:  Cannot redeclare custom_menu_item_post_type() (previously declared in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php:223) in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 249
+[23-Sep-2023 18:39:33 UTC] PHP Fatal error:  Cannot redeclare custom_menu_item_post_type() (previously declared in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php:223) in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 249
+[23-Sep-2023 18:39:34 UTC] PHP Fatal error:  Cannot redeclare custom_menu_item_post_type() (previously declared in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php:223) in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/functions.php on line 249
+[23-Sep-2023 18:44:47 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Sep-2023 18:48:40 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Sep-2023 18:50:41 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Sep-2023 19:06:19 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php:82
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php on line 82
+[23-Sep-2023 19:06:23 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php:82
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php on line 82
+[23-Sep-2023 19:08:21 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php:82
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php on line 82
+[23-Sep-2023 19:15:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "diary_event_price" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php:88
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php on line 88
+[23-Sep-2023 19:22:04 UTC] PHP Parse error:  syntax error, unexpected token ";" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php on line 106
+[23-Sep-2023 19:25:55 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php:90
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php on line 90
+[23-Sep-2023 19:31:16 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Sep-2023 19:33:14 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Sep-2023 19:34:33 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php:90
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php on line 90
+[23-Sep-2023 19:36:50 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php:92
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php on line 92
+[23-Sep-2023 19:39:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 120() in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php:89
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php on line 89
+[23-Sep-2023 19:39:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 120() in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php:88
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php on line 88
+[23-Sep-2023 19:39:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function <p>An arrival drink, 6-course meal with matching wine with each course, tutored tasting.</p>
+<p>Call 01825 212213 to book your tickets, or book via Eventbrite.</p>
+() in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php:95
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php on line 95
+[23-Sep-2023 19:40:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function <p>An arrival drink, 6-course meal with matching wine with each course, tutored tasting.</p>
+<p>Call 01825 212213 to book your tickets, or book via Eventbrite.</p>
+() in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php:95
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-tasting-diary-page.php on line 95
+[23-Sep-2023 19:42:33 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Sep-2023 19:52:36 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Sep-2023 19:54:32 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Sep-2023 19:56:32 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Sep-2023 20:00:32 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Sep-2023 20:27:16 UTC] PUBLISHPRESS FUTURE: Result of creating table wp_ppfuture_actions_args: Created table wp_ppfuture_actions_args
+[23-Sep-2023 20:28:47 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Sep-2023 20:33:16 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Sep-2023 21:37:12 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Sep-2023 21:53:44 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[24-Sep-2023 15:39:09 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[24-Sep-2023 15:59:15 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[24-Sep-2023 16:19:23 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[24-Sep-2023 16:27:26 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[24-Sep-2023 17:05:39 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[24-Sep-2023 18:19:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-testimonals-page.php on line 74
+[24-Sep-2023 19:02:40 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[24-Sep-2023 20:35:18 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[28-Sep-2023 19:52:33 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[28-Sep-2023 19:52:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "the_title" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-contact-page.php:18
+Stack trace:
+#0 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-blog-header.php(19): require_once('/Users/ben/Loca...')
+#2 /Users/ben/Local Sites/vine-dine-event-catering/app/public/index.php(17): require('/Users/ben/Loca...')
+#3 {main}
+  thrown in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/template-contact-page.php on line 18
+[28-Sep-2023 20:47:08 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[28-Sep-2023 23:22:16 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[29-Sep-2023 01:20:46 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[29-Sep-2023 01:32:27 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[29-Sep-2023 01:42:01 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[29-Sep-2023 02:21:35 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[29-Sep-2023 03:13:42 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[29-Sep-2023 03:37:39 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[29-Sep-2023 03:59:14 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[29-Sep-2023 04:10:37 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[30-Sep-2023 11:31:07 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[30-Sep-2023 11:31:07 UTC] Cron unschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[30-Sep-2023 11:41:11 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[01-Oct-2023 18:11:22 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[01-Oct-2023 18:15:21 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[01-Oct-2023 18:17:22 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[04-Oct-2023 19:06:53 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[08-Oct-2023 18:26:03 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[08-Oct-2023 18:35:54 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[08-Oct-2023 18:41:56 UTC] Cron reschedule event error for hook: wp_https_detection, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"twicedaily","args":[],"interval":43200}
+[08-Oct-2023 18:49:59 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[08-Oct-2023 18:54:01 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[08-Oct-2023 18:59:03 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[10-Oct-2023 20:40:34 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 114
+[10-Oct-2023 20:45:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 62
+[10-Oct-2023 20:46:01 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/components/section-page-cards-6col.php on line 61
+[10-Oct-2023 21:29:52 UTC] PHP Warning:  Undefined variable $intro_text in /Users/ben/Local Sites/vine-dine-event-catering/app/public/wp-content/themes/vine-dine-events-catering/archive.php on line 28
+[15-Oct-2023 16:57:02 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[15-Oct-2023 17:03:04 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[15-Oct-2023 17:07:02 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[15-Oct-2023 17:18:44 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[15-Oct-2023 17:18:44 UTC] Cron reschedule event error for hook: wordfence_hourly_cron, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[15-Oct-2023 17:18:44 UTC] Cron unschedule event error for hook: wordfence_hourly_cron, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[15-Oct-2023 17:39:39 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[15-Oct-2023 17:43:40 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[15-Oct-2023 17:47:42 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}

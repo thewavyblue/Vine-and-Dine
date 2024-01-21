@@ -1,0 +1,51 @@
+[20-Aug-2023 19:40:29] NOTICE: fpm is running, pid 31570
+[20-Aug-2023 19:40:29] NOTICE: ready to handle connections
+[23-Aug-2023 21:05:10] NOTICE: Terminating ...
+[23-Aug-2023 21:05:10] NOTICE: Terminating ...
+[23-Aug-2023 21:05:10] NOTICE: exiting, bye-bye!
+[23-Aug-2023 21:05:11] NOTICE: fpm is running, pid 69600
+[23-Aug-2023 21:05:11] NOTICE: ready to handle connections
+[23-Aug-2023 21:06:10] NOTICE: Terminating ...
+[23-Aug-2023 21:06:10] NOTICE: Terminating ...
+[23-Aug-2023 21:06:10] NOTICE: exiting, bye-bye!
+[23-Aug-2023 21:06:12] NOTICE: fpm is running, pid 69666
+[23-Aug-2023 21:06:12] NOTICE: ready to handle connections
+[10-Sep-2023 17:32:59] NOTICE: Terminating ...
+[10-Sep-2023 17:32:59] NOTICE: Terminating ...
+[10-Sep-2023 17:32:59] NOTICE: exiting, bye-bye!
+[13-Sep-2023 20:03:36] NOTICE: fpm is running, pid 34523
+[13-Sep-2023 20:03:36] NOTICE: ready to handle connections
+[13-Sep-2023 20:04:08] NOTICE: Terminating ...
+[13-Sep-2023 20:04:08] NOTICE: Terminating ...
+[13-Sep-2023 20:04:08] NOTICE: exiting, bye-bye!
+[13-Sep-2023 20:04:18] NOTICE: fpm is running, pid 34738
+[13-Sep-2023 20:04:18] NOTICE: ready to handle connections
+[13-Sep-2023 20:04:19] ERROR: Another FPM instance seems to already listen on /Users/ben/Library/Application Support/Local/run/gTlMPEYzy/php/php-fpm.socket
+[13-Sep-2023 20:04:19] ERROR: FPM initialization failed
+[13-Sep-2023 20:04:20] ERROR: Another FPM instance seems to already listen on /Users/ben/Library/Application Support/Local/run/gTlMPEYzy/php/php-fpm.socket
+[13-Sep-2023 20:04:20] ERROR: FPM initialization failed
+[13-Sep-2023 20:04:20] ERROR: Another FPM instance seems to already listen on /Users/ben/Library/Application Support/Local/run/gTlMPEYzy/php/php-fpm.socket
+[13-Sep-2023 20:04:20] ERROR: FPM initialization failed
+[15-Oct-2023 17:40:42] ERROR: Another FPM instance seems to already listen on /Users/ben/Library/Application Support/Local/run/gTlMPEYzy/php/php-fpm.socket
+[15-Oct-2023 17:40:42] ERROR: FPM initialization failed
+[15-Oct-2023 17:40:43] ERROR: Another FPM instance seems to already listen on /Users/ben/Library/Application Support/Local/run/gTlMPEYzy/php/php-fpm.socket
+[15-Oct-2023 17:40:43] ERROR: FPM initialization failed
+[15-Oct-2023 17:40:43] ERROR: Another FPM instance seems to already listen on /Users/ben/Library/Application Support/Local/run/gTlMPEYzy/php/php-fpm.socket
+[15-Oct-2023 17:40:43] ERROR: FPM initialization failed
+[15-Oct-2023 17:40:44] ERROR: Another FPM instance seems to already listen on /Users/ben/Library/Application Support/Local/run/gTlMPEYzy/php/php-fpm.socket
+[15-Oct-2023 17:40:44] ERROR: FPM initialization failed
+[15-Oct-2023 17:41:32] ERROR: Another FPM instance seems to already listen on /Users/ben/Library/Application Support/Local/run/gTlMPEYzy/php/php-fpm.socket
+[15-Oct-2023 17:41:32] ERROR: FPM initialization failed
+[15-Oct-2023 17:41:33] ERROR: Another FPM instance seems to already listen on /Users/ben/Library/Application Support/Local/run/gTlMPEYzy/php/php-fpm.socket
+[15-Oct-2023 17:41:33] ERROR: FPM initialization failed
+[15-Oct-2023 17:41:33] ERROR: Another FPM instance seems to already listen on /Users/ben/Library/Application Support/Local/run/gTlMPEYzy/php/php-fpm.socket
+[15-Oct-2023 17:41:33] ERROR: FPM initialization failed
+[15-Oct-2023 17:41:34] ERROR: Another FPM instance seems to already listen on /Users/ben/Library/Application Support/Local/run/gTlMPEYzy/php/php-fpm.socket
+[15-Oct-2023 17:41:34] ERROR: FPM initialization failed
+[15-Oct-2023 17:52:53] NOTICE: fpm is running, pid 1245
+[15-Oct-2023 17:52:53] NOTICE: ready to handle connections
+[15-Oct-2023 17:53:00] NOTICE: Terminating ...
+[15-Oct-2023 17:53:00] NOTICE: Terminating ...
+[15-Oct-2023 17:53:00] NOTICE: exiting, bye-bye!
+[15-Oct-2023 17:53:06] NOTICE: fpm is running, pid 1285
+[15-Oct-2023 17:53:06] NOTICE: ready to handle connections
